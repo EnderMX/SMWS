@@ -1,0 +1,22 @@
+Data_Source,Year,Metric,Value,Source_URL,Notes
+Police_Statistics,2023,Total_Cybercrime_Cases,99,https://slguardian.org/treading-cautiously-in-maldives/,Commissioner Ali Shujau Dec 11 2024
+Police_Statistics,2024,Total_Cybercrime_Cases,173,https://slguardian.org/treading-cautiously-in-maldives/,74.7% increase from 2023
+Police_Statistics,2024,Percentage_Increase,74.7,Calculated,Nearly doubled in one year
+Bank_of_Maldives,2022,Financial_Scam_Cases,1360,https://engagemedia.org/2023/gif-digital-rights-maldives/,Digital financial scams
+Bank_of_Maldives,2022,Financial_Loss_USD,2200000,https://engagemedia.org/2023/gif-digital-rights-maldives/,US$2.2 million total loss
+Westminster_Foundation,2024,Survey_Participants,54,https://maldivesindependent.com/politics/i-completely-broke-down-the-cyber-violence-pushing-women-out-of-maldivian-politics-9afd,Parliamentary inquiry participants
+Westminster_Foundation,2024,Female_Politicians_Shutting_Accounts_Pct,25,https://maldivesindependent.com/politics/i-completely-broke-down-the-cyber-violence-pushing-women-out-of-maldivian-politics-9afd,1 in 4 shut down social media
+Westminster_Foundation,2024,Women_In_Parliament_Global_Rank,180,https://maldivesindependent.com/politics/i-completely-broke-down-the-cyber-violence-pushing-women-out-of-maldivian-politics-9afd,Global ranking for women representation
+Media_Freedom,2024,Female_Journalists_Online_Violence_Pct,60,https://engagemedia.org/2023/gif-digital-rights-maldives/,Experience online violence
+Media_Bill_Petition,2025,Journalists_Opposing_Bill,151,https://www.ifj.org/media-centre/news/detail/category/press-releases/article/maldives-parliament-passes-repressive-media-control-bill,Petition signatories ignored
+Media_Bill_Vote,2025,MPs_Voting_For,60,https://www.ifj.org/media-centre/news/detail/category/press-releases/article/maldives-parliament-passes-repressive-media-control-bill,Ruling party PNC
+Media_Bill_Vote,2025,MPs_Voting_Against,1,https://www.ifj.org/media-centre/news/detail/category/press-releases/article/maldives-parliament-passes-repressive-media-control-bill,Only 1 opposition vote
+Legislative_Status,2025,Countries_With_Cyber_Harassment_Laws,0,https://maldivesindependent.com/politics/i-completely-broke-down-the-cyber-violence-pushing-women-out-of-maldivian-politics-9afd,Maldives has no specific law
+Legislative_Status,2025,Penal_Code_Amendment_Date,2025-12-17,https://www.coe.int/en/web/octopus/-/maldives,Budapest Convention alignment
+Legislative_Status,2025,Cyber_Offenses_Criminalized,10,https://www.coe.int/en/web/octopus/-/maldives,New cybercrimes in penal code
+Legislative_Status,2025,Harassment_Stalking_Coverage,0,https://maldivesindependent.com/politics/i-completely-broke-down-the-cyber-violence-pushing-women-out-of-maldivian-politics-9afd,Gap in legislation
+Cyber_Crime_Center,2021,Establishment_Date,2021-12-01,https://www.coe.int/en/web/octopus/-/maldives,C3 at Maldives Police Service
+Digital_Divide,2023,Remote_Islands_Internet_Access_Pct,51,https://engagemedia.org/2023/gif-digital-rights-maldives/,Household internet access
+Media_Commission,2025,Presidential_Appointees,3,https://cpj.org/2025/08/cpj-urges-maldives-president-to-reject-regressive-media-bill/,Out of 7 commission members
+Media_Commission,2025,Maximum_Fine_Journalist_MVR,25000,https://www.ifj.org/media-centre/news/detail/category/press-releases/article/maldives-parliament-passes-repressive-media-control-bill,Approx USD 1620
+Media_Commission,2025,Maximum_Fine_Outlet_MVR,100000,https://www.ifj.org/media-centre/news/detail/category/press-releases/article/maldives-parliament-passes-repressive-media-control-bill,Approx USD 6490
